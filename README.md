@@ -12,14 +12,3 @@ product_documentation
   <footer>—— Fuente</footer>
 </blockquote>
 
-
-<!-- Usa HTML para controlar el tamaño de la imagen con precisión -->
-<img src="ejemplo.jpg" alt="Imagen de ejemplo" width="300" height="200">
-
-<!-- Imagen responsiva -->
-<img src="ejemplo.jpg" alt="Imagen responsiva" style="max-width: 100%; height: auto;">
-
-<!-- Alineación de imagen -->
-<div align="center">
-  <img src="ejemplo.jpg" alt="Imagen centrada" width="400">
-</div>
