@@ -129,9 +129,3 @@
 6.  **[Documentos y Archivos](#producto4-frontstage-documentos-archivos)**
 
 ---
-
-<<<<<<< Updated upstream
-        </div>
-</div>
-=======
->>>>>>> Stashed changes
