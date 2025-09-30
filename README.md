@@ -17,55 +17,45 @@ product_documentation
 
 
 
-# 📚 Documentación Principal de Productos
+# 🗺️ Índice General de Productos
 
-Aquí puedes navegar la documentación de los siguientes productos: Empact, Orbit, Orthodox, Calendar y TJ.
+* [Empaque](#empaque)
+* [Orbit](#orbit)
+* [Orthodox](#orthodox)
+* [Calendar](#calendar)
+* [TJ](#tj)
 
 ---
 
-# 📌 Índice de Documentación (Navegación Rápida)
+## [NOMBRE DEL PRODUCTO]
 
- * **Empact**
-    * [Backstage](empact-backstage.md)
-        * [Configuración](#configuracion-de-empact.md)
-        * [API Endpoints](#api-endpoints-empact.md)
-    * [Frontstage](#empact-frontstage)
-        * [Interfaz de Usuario](#interfaz-de-usuario-empact.md)
+### 🖥️ Backstage (Uso Interno)
 
- * **Orhbit**
-    * [Backstage](#orbit-backstage)
-        * [Autenticación](#autenticacion-orbit)
-    * [Frontstage](#orbit-frontstage)
-        * [UX/UI Guías](#uxui-guias-orbit)
+1.  **[Actividades Pendientes del Equipo](#[producto]-backstage-actividades)**
+2.  **[Definiciones](#[producto]-backstage-definiciones)**
+    * [Brief (CV)](#[producto]-brief-cv)
+    * [Guía de Estimación](#[producto]-guia-estimacion)
+    * [Priorización](#[producto]-priorizacion)
+3.  **[Proceso de Diseño](#[producto]-backstage-proceso-diseno)**
+    * [Investigación](#[producto]-investigacion)
+    * [Ejecución](#[producto]-ejecucion)
+4.  **[Validación](#[producto]-backstage-validacion)**
+5.  **[Hand off](#[producto]-backstage-hand-off)**
+    * [Proceso para agregar componentes a BAU](#[producto]-proceso-bau)
+    * [DS template](#[producto]-ds-template)
+    * [User story template](#[producto]-user-story-template)
+    * [Alcance del cross review](#[producto]-cross-review)
+6.  **[Implementación](#[producto]-backstage-implementacion)**
+    * [QA template](#[producto]-qa-template)
+7.  **[Cierre](#[producto]-backstage-cierre)**
 
- * **Orthodox**
-    * [Backstage](#orthodox-backstage)
-        * [Modelos de Datos](#modelos-de-datos-orthodox)
-    * [Frontstage](#orthodox-frontstage)
-        * [Componentes](#componentes-orthodox)
+### 👤 Frontstage (Para el Cliente)
 
- * **Calendar**
-    * [Backstage](#calendar-backstage)
-    * [Frontstage](#calendar-frontstage)
-
-* **TJ**
-    * [Backstage](#tj-backstage)
-    * [Frontstage](#tj-frontstage)
-
-
-
-
- * **Empact**
-    * [Backstage](empact-backstage.md)
-        * [Configuración](#configuracion-de-empact.md)
-
-
-
-        pamapmsascsaasas
-
-
-        * [API Endpoints](#api-endpoints-empact.md)
-        zncoasncsocnszckzsnkcszkczsczsclñs
-
+1.  **[Actividades Pendientes de Cliente](#[producto]-frontstage-actividades-cliente)**
+2.  **[Minutas](#[producto]-frontstage-minutas)**
+3.  **[PRD (Documento de Requerimientos)](#[producto]-frontstage-prd)**
+4.  **[Roadmap](#[producto]-frontstage-roadmap)**
+5.  **[Diseños y Entregables](#[producto]-frontstage-disenos)**
+6.  **[Documentos y Archivos](#[producto]-frontstage-documentos-archivos)**
 
 ---
