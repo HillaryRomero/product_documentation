@@ -19,36 +19,36 @@ product_documentation
 
 # 📚 Documentación Principal de Productos
 
-Aquí puedes navegar la documentación de los siguientes productos: Empaque, Orbit, Orthodox, Calendar y TJ.
+Aquí puedes navegar la documentación de los siguientes productos: Empact, Orbit, Orthodox, Calendar y TJ.
 
 ---
 
-## 📌 Índice de Documentación (Navegación Rápida)
+# 📌 Índice de Documentación (Navegación Rápida)
 
-* **Empaque**
-    * [Backstage](#empaque-backstage)
-        * [Configuración](#configuracion-de-empaque)
-        * [API Endpoints](#api-endpoints-empaque)
-    * [Frontstage](#empaque-frontstage)
-        * [Interfaz de Usuario](#interfaz-de-usuario-empaque)
+# * **Empact**
+    * [Backstage](#empact-backstage)
+        * [Configuración](#configuracion-de-empact)
+        * [API Endpoints](#api-endpoints-empact)
+    * [Frontstage](#empact-frontstage)
+        * [Interfaz de Usuario](#interfaz-de-usuario-empact)
 
-* **Orbit**
+# * **Orhbit**
     * [Backstage](#orbit-backstage)
         * [Autenticación](#autenticacion-orbit)
     * [Frontstage](#orbit-frontstage)
         * [UX/UI Guías](#uxui-guias-orbit)
 
-* **Orthodox**
+# * **Orthodox**
     * [Backstage](#orthodox-backstage)
         * [Modelos de Datos](#modelos-de-datos-orthodox)
     * [Frontstage](#orthodox-frontstage)
         * [Componentes](#componentes-orthodox)
 
-* **Calendar**
+# * **Calendar**
     * [Backstage](#calendar-backstage)
     * [Frontstage](#calendar-frontstage)
 
-* **TJ**
+#* **TJ**
     * [Backstage](#tj-backstage)
     * [Frontstage](#tj-frontstage)
 
